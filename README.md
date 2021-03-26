@@ -13,7 +13,7 @@
 
 ## 🤖 My already finished projects
 
-- Blxckout | Educational virus that has the potential to steal your data and loggs all your keystrokes. It also has some sort of "killswitch".
+- Blxckout | Educational virus that has the potential to look for personal data and analyses weakpoints.
 - Lilin Interface | Webinterface for gameservers.
 
 ## 🔧 Tools
