@@ -6,9 +6,9 @@
 
 ## 💪 My skills
 - Python<br>
-- PHP<br>
 - HTML<br>
 - Bootstrap<br>
+- CSS<br>
 - SQL<br>
 
 ## I am currently working on...
