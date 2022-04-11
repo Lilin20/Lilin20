@@ -12,7 +12,8 @@
 
 ## I am currently working on...
 
-I am currently working on all sorts of discord bots. All of them are mainly written in Python.
+- Developing all sorts of games (currently more in the horror-genre, developing with Godot-Engine)
+- All sorts of discord bots (written in python)
 
 ## 🤖 My already finished projects
 
@@ -20,9 +21,10 @@ I am currently working on all sorts of discord bots. All of them are mainly writ
 - Panzerspiel - A game written in PyGame wich can be played solo against a bot or multiplayer using sockets.
 - Some smaller games - A collection of games that i made in 2-3 days each.
 
-## 🔧 Tools
+## 🔧 Tools i use
 - Version Control (Git)
 - VS Code
+- Docker
 
 ## For inquiries of any kind please contact me here
 - Discord | iLLness LiLin#7728
