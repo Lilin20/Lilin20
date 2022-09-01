@@ -12,7 +12,7 @@
 
 ## I am currently working on...
 
-- Developing all sorts of games (currently more in the horror-genre, developing with Godot-Engine)
+- Developing all sorts of games (currently more in the horror-genre, developing with Godot-Engine, Unity)
 - All sorts of discord bots (written in python)
 
 ## 🤖 My already finished projects
