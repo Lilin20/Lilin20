@@ -6,19 +6,22 @@
 
 ## 💪 My skills
 - Python<br>
-- Go<br>
-- Java<br>
+- C#<br>
+- C++<br>
+- Rust<br>
+- Ruby<br>
 - SQL<br>
 
 ## I am currently working on...
 
-- Developing all sorts of games (currently more in the horror-genre, developing with Godot-Engine, Unity)
+- Developing all sorts of games using the godot and unreal engine.
 - All sorts of discord bots (written in python)
 
 ## 🤖 My already finished projects
 
 - Simplistic - A discord bot for schools or even community servers.
 - Panzerspiel - A game written in PyGame wich can be played solo against a bot or multiplayer using sockets.
+- MQTTChattor - Encrypted (end-end) chatsystem using mqtt.
 - Some smaller games - A collection of games that i made in 2-3 days each.
 
 ## 🔧 Tools i use
@@ -27,5 +30,5 @@
 - Docker
 
 ## For inquiries of any kind please contact me here
-- Discord | iLLness LiLin#7728
+- Discord | Lilin#1343
 - E-Mail | marvin@lilindev.it
