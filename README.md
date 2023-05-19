@@ -28,7 +28,9 @@
 - Simplistic - A discord bot for schools or even community servers.
 - Panzerspiel - A game written in PyGame wich can be played solo against a bot or multiplayer using sockets.
 - MQTTChattor - Encrypted (end-end) chatsystem using mqtt.
-- Some smaller games - A collection of games that i made in 2-3 days each.
+- Velero Updater - Velero Updating tool. Updates velero on every namespace in your k8s cluster.
+- Image Updater - Updates the images of selected yml files and deploys them.
+- Velero Backup Mailer - Mailsystem that sends out a mail when a backup failed.
 
 ## 🔧 Tools i use
 - Version Control (Git)
