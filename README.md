@@ -5,12 +5,18 @@
 
 
 ## 💪 My skills
-- Python<br>
-- C#<br>
-- C++<br>
-- Rust<br>
-- Ruby<br>
-- SQL<br>
+- Programming<br>
+  - Python<br>
+  - C#<br>
+  - C++<br>
+  - Rust<br>
+  - Ruby<br>
+  - SQL<br>
+  - Shell<br>
+
+- Sysamin<br>
+  - Kubernetes<br>
+  - Docker<br>
 
 ## I am currently working on...
 
