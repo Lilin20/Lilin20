@@ -14,7 +14,7 @@
   - SQL<br>
   - Shell<br>
 
-- Sysamin<br>
+- Administrative<br>
   - Kubernetes<br>
   - Docker<br>
 
