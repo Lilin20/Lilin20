@@ -38,5 +38,4 @@
 - Docker
 
 ## For inquiries of any kind please contact me here
-- Discord | Lilin#1343
-- E-Mail | marvin@lilindev.it
+- Discord | illnesslilin
